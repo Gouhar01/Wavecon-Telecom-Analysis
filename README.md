@@ -1,7 +1,7 @@
 # Wavecon-Telecom-Analysis
 * It is a service provider in different city of India. 
 * Launched 5G network in may 2022.
- ## Video Presentation Link Click Here.
+ ## Video Presentation Link [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7168917048146812928/).
  ## Live Dashboard Link [Click Here](https://app.powerbi.com/groups/me/reports/b745adf9-6a62-4a16-85d3-2cb60cbb1391/ReportSection16b73cde20cf3ed17b51?experience=power-bi).
 
 ## Tools Used
@@ -42,7 +42,7 @@ After the 5G launch, Lucknow  is facing highest Unsubscribe user which is 77.91%
 * Plans (p8, P9 and P10) are affected largely by the 5G launch, we should discontinue these plans.
 * After the 5G launch, telecom companies started providing free internet services and  since these three plans are basically limited validities for 1 or, 3 days that’s why the plans (p8, p9 and p10) have stopped  generating revenue so, I think, we  should discontinue these  plans.
 
-## Video Presentation Link Click Here.
+## Video Presentation Link [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7168917048146812928/).
 ## Live Dashboard Link [Click Here](https://app.powerbi.com/groups/me/reports/b745adf9-6a62-4a16-85d3-2cb60cbb1391/ReportSection16b73cde20cf3ed17b51?experience=power-bi).
 
 
